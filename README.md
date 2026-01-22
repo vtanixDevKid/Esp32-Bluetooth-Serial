@@ -41,7 +41,7 @@ void loop() {
     digitalWrite(relayPin, HIGH);   // relay OFF
   }
 }
-
+---
 So in Esp Btl you should make :
 
 any command + serial command you like, for example :
