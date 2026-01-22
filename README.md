@@ -56,6 +56,6 @@ and tho you can delete or add your command infinitly
 if you want this project you can ask me , even tho ill give you or not based on my mood :)
 
 the screenshot of the app:
-![preview](ScreenShot/1000212913.jpg)
-![preview](ScreenShot/1000212914.jpg)
+<img src="ScreenShot/1000212913.jpg" width=300>
+<img src="ScreenShot/1000212914.jpg" width=300>
 
