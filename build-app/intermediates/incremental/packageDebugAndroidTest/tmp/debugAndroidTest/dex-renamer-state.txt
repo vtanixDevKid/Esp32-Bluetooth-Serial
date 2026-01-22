@@ -1,0 +1,7 @@
+#Thu Jan 15 19:41:54 ICT 2026
+base.1=D\:\\Project\\AppPeoject\\clone\\vosk-android-demo\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\1\\classes.dex
+path.1=1/classes.dex
+base.0=D\:\\Project\\AppPeoject\\clone\\vosk-android-demo\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=0/classes.dex

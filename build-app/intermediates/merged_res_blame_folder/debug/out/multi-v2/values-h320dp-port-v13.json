@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.vosk.demo.app-mergeDebugResources-38:/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\caches\\transforms-3\\36d4e96a44313fc43342f7d26499ffa4\\transformed\\material-1.11.0\\res\\values-h320dp-port-v13\\values-h320dp-port-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "63",
+                        "endOffsets": "114"
+                    }
+                }
+            ]
+        }
+    ]
+}

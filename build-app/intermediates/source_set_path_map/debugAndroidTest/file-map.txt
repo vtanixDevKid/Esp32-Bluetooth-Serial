@@ -1,0 +1,5 @@
+org.vosk.demo.test.app-androidTest-0 D:\Project\AppPeoject\clone\vosk-android-demo\app\build\generated\res\resValues\androidTest\debug
+org.vosk.demo.test.app-androidTest-1 D:\Project\AppPeoject\clone\vosk-android-demo\app\build\generated\res\rs\androidTest\debug
+org.vosk.demo.test.app-mergeDebugAndroidTestResources-2 D:\Project\AppPeoject\clone\vosk-android-demo\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+org.vosk.demo.test.app-mergeDebugAndroidTestResources-3 D:\Project\AppPeoject\clone\vosk-android-demo\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+org.vosk.demo.test.app-merged_res-4 D:\Project\AppPeoject\clone\vosk-android-demo\app\build\intermediates\merged_res\debugAndroidTest

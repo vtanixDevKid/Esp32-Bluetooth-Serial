@@ -1,0 +1,181 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.vosk.demo"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="34" />
+9-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml
+10
+11    <!-- Permissions -->
+12    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+12-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:7:5-77
+12-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:7:22-74
+13    <uses-permission android:name="android.permission.BLUETOOTH_ADVERTISE" />
+13-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:8:5-78
+13-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:8:22-75
+14    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_CONNECTED_DEVICE" />
+14-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:9:5-94
+14-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:9:22-91
+15    <uses-permission
+15-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:11:5-13:38
+16        android:name="android.permission.BLUETOOTH"
+16-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:12:9-52
+17        android:maxSdkVersion="30" />
+17-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:13:9-35
+18    <uses-permission
+18-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:15:5-17:61
+19        android:name="android.permission.BLUETOOTH_ADMIN"
+19-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:17:9-58
+20        android:maxSdkVersion="30" />
+20-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:16:9-35
+21    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+21-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:18:5-76
+21-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:18:22-73
+22    <uses-permission android:name="android.permission.BLUETOOTH_SCAN" />
+22-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:19:5-73
+22-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:19:22-70
+23    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+23-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:20:5-71
+23-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:20:22-68
+24    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+24-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:21:5-81
+24-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:21:22-78
+25
+26    <permission
+26-->[androidx.core:core:1.12.0] D:\AndroidBuild\AndroidPlayer\Tools\gradle\caches\transforms-3\d81cb991ef3e90be466f9a23fb76f11a\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+27        android:name="org.vosk.demo.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+27-->[androidx.core:core:1.12.0] D:\AndroidBuild\AndroidPlayer\Tools\gradle\caches\transforms-3\d81cb991ef3e90be466f9a23fb76f11a\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+28        android:protectionLevel="signature" />
+28-->[androidx.core:core:1.12.0] D:\AndroidBuild\AndroidPlayer\Tools\gradle\caches\transforms-3\d81cb991ef3e90be466f9a23fb76f11a\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+29
+30    <uses-permission android:name="org.vosk.demo.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+30-->[androidx.core:core:1.12.0] D:\AndroidBuild\AndroidPlayer\Tools\gradle\caches\transforms-3\d81cb991ef3e90be466f9a23fb76f11a\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+30-->[androidx.core:core:1.12.0] D:\AndroidBuild\AndroidPlayer\Tools\gradle\caches\transforms-3\d81cb991ef3e90be466f9a23fb76f11a\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+31
+32    <application
+32-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:23:5-54:19
+33        android:name="org.vosk.demo.MyApplication"
+33-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:24:9-38
+34        android.roundIcon="@drawable/logo1"
+34-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:27:9-44
+35        android:allowBackup="true"
+35-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:28:9-35
+36        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+36-->[androidx.core:core:1.12.0] D:\AndroidBuild\AndroidPlayer\Tools\gradle\caches\transforms-3\d81cb991ef3e90be466f9a23fb76f11a\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+37        android:dataExtractionRules="@xml/data_extraction_rules"
+37-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:26:9-65
+38        android:icon="@drawable/logo1"
+38-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:29:9-39
+39        android:label="@string/app_name"
+39-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:25:9-41
+40        android:supportsRtl="true" >
+40-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:30:9-35
+41        <activity
+41-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:33:9-35:56
+42            android:name="org.vosk.demo.BluetoothActivity"
+42-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:33:19-52
+43            android:screenOrientation="portrait" />
+43-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:34:13-49
+44        <activity
+44-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:37:9-46:20
+45            android:name="org.vosk.demo.VoskActivity"
+45-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:38:13-41
+46            android:exported="true"
+46-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:39:13-36
+47            android:screenOrientation="portrait" >
+47-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:40:13-49
+48            <intent-filter>
+48-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:42:13-45:29
+49                <action android:name="android.intent.action.MAIN" />
+49-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:43:17-69
+49-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:43:25-66
+50
+51                <category android:name="android.intent.category.LAUNCHER" />
+51-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:44:17-77
+51-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:44:27-74
+52            </intent-filter>
+53        </activity>
+54
+55        <service
+55-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:48:9-52:63
+56            android:name="org.vosk.demo.BluetoothConnectionService"
+56-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:49:13-55
+57            android:enabled="true"
+57-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:50:13-35
+58            android:exported="false"
+58-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:51:13-37
+59            android:foregroundServiceType="connectedDevice" />
+59-->D:\Project\AppPeoject\clone\vosk-android-demo\app\src\main\AndroidManifest.xml:52:13-60
+60
+61        <provider
+61-->[androidx.emoji2:emoji2:1.2.0] D:\AndroidBuild\AndroidPlayer\Tools\gradle\caches\transforms-3\3e894f655b0ddc380b6b45a6273f757b\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+62            android:name="androidx.startup.InitializationProvider"
+62-->[androidx.emoji2:emoji2:1.2.0] D:\AndroidBuild\AndroidPlayer\Tools\gradle\caches\transforms-3\3e894f655b0ddc380b6b45a6273f757b\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+63            android:authorities="org.vosk.demo.androidx-startup"
+63-->[androidx.emoji2:emoji2:1.2.0] D:\AndroidBuild\AndroidPlayer\Tools\gradle\caches\transforms-3\3e894f655b0ddc380b6b45a6273f757b\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+64            android:exported="false" >
+64-->[androidx.emoji2:emoji2:1.2.0] D:\AndroidBuild\AndroidPlayer\Tools\gradle\caches\transforms-3\3e894f655b0ddc380b6b45a6273f757b\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+65            <meta-data
+65-->[androidx.emoji2:emoji2:1.2.0] D:\AndroidBuild\AndroidPlayer\Tools\gradle\caches\transforms-3\3e894f655b0ddc380b6b45a6273f757b\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+66                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+66-->[androidx.emoji2:emoji2:1.2.0] D:\AndroidBuild\AndroidPlayer\Tools\gradle\caches\transforms-3\3e894f655b0ddc380b6b45a6273f757b\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+67                android:value="androidx.startup" />
+67-->[androidx.emoji2:emoji2:1.2.0] D:\AndroidBuild\AndroidPlayer\Tools\gradle\caches\transforms-3\3e894f655b0ddc380b6b45a6273f757b\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+68            <meta-data
+68-->[androidx.lifecycle:lifecycle-process:2.7.0] D:\AndroidBuild\AndroidPlayer\Tools\gradle\caches\transforms-3\55395fa9de854e7a83b66588956009eb\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
+69                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+69-->[androidx.lifecycle:lifecycle-process:2.7.0] D:\AndroidBuild\AndroidPlayer\Tools\gradle\caches\transforms-3\55395fa9de854e7a83b66588956009eb\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
+70                android:value="androidx.startup" />
+70-->[androidx.lifecycle:lifecycle-process:2.7.0] D:\AndroidBuild\AndroidPlayer\Tools\gradle\caches\transforms-3\55395fa9de854e7a83b66588956009eb\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
+71            <meta-data
+71-->[androidx.profileinstaller:profileinstaller:1.3.0] D:\AndroidBuild\AndroidPlayer\Tools\gradle\caches\transforms-3\29034ab742df07aea0e6ba35544e5ab6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+72                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+72-->[androidx.profileinstaller:profileinstaller:1.3.0] D:\AndroidBuild\AndroidPlayer\Tools\gradle\caches\transforms-3\29034ab742df07aea0e6ba35544e5ab6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+73                android:value="androidx.startup" />
+73-->[androidx.profileinstaller:profileinstaller:1.3.0] D:\AndroidBuild\AndroidPlayer\Tools\gradle\caches\transforms-3\29034ab742df07aea0e6ba35544e5ab6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+74        </provider>
+75
+76        <receiver
+76-->[androidx.profileinstaller:profileinstaller:1.3.0] D:\AndroidBuild\AndroidPlayer\Tools\gradle\caches\transforms-3\29034ab742df07aea0e6ba35544e5ab6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+77            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+77-->[androidx.profileinstaller:profileinstaller:1.3.0] D:\AndroidBuild\AndroidPlayer\Tools\gradle\caches\transforms-3\29034ab742df07aea0e6ba35544e5ab6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+78            android:directBootAware="false"
+78-->[androidx.profileinstaller:profileinstaller:1.3.0] D:\AndroidBuild\AndroidPlayer\Tools\gradle\caches\transforms-3\29034ab742df07aea0e6ba35544e5ab6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+79            android:enabled="true"
+79-->[androidx.profileinstaller:profileinstaller:1.3.0] D:\AndroidBuild\AndroidPlayer\Tools\gradle\caches\transforms-3\29034ab742df07aea0e6ba35544e5ab6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+80            android:exported="true"
+80-->[androidx.profileinstaller:profileinstaller:1.3.0] D:\AndroidBuild\AndroidPlayer\Tools\gradle\caches\transforms-3\29034ab742df07aea0e6ba35544e5ab6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+81            android:permission="android.permission.DUMP" >
+81-->[androidx.profileinstaller:profileinstaller:1.3.0] D:\AndroidBuild\AndroidPlayer\Tools\gradle\caches\transforms-3\29034ab742df07aea0e6ba35544e5ab6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+82            <intent-filter>
+82-->[androidx.profileinstaller:profileinstaller:1.3.0] D:\AndroidBuild\AndroidPlayer\Tools\gradle\caches\transforms-3\29034ab742df07aea0e6ba35544e5ab6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+83                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+83-->[androidx.profileinstaller:profileinstaller:1.3.0] D:\AndroidBuild\AndroidPlayer\Tools\gradle\caches\transforms-3\29034ab742df07aea0e6ba35544e5ab6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+83-->[androidx.profileinstaller:profileinstaller:1.3.0] D:\AndroidBuild\AndroidPlayer\Tools\gradle\caches\transforms-3\29034ab742df07aea0e6ba35544e5ab6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+84            </intent-filter>
+85            <intent-filter>
+85-->[androidx.profileinstaller:profileinstaller:1.3.0] D:\AndroidBuild\AndroidPlayer\Tools\gradle\caches\transforms-3\29034ab742df07aea0e6ba35544e5ab6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+86                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+86-->[androidx.profileinstaller:profileinstaller:1.3.0] D:\AndroidBuild\AndroidPlayer\Tools\gradle\caches\transforms-3\29034ab742df07aea0e6ba35544e5ab6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+86-->[androidx.profileinstaller:profileinstaller:1.3.0] D:\AndroidBuild\AndroidPlayer\Tools\gradle\caches\transforms-3\29034ab742df07aea0e6ba35544e5ab6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+87            </intent-filter>
+88            <intent-filter>
+88-->[androidx.profileinstaller:profileinstaller:1.3.0] D:\AndroidBuild\AndroidPlayer\Tools\gradle\caches\transforms-3\29034ab742df07aea0e6ba35544e5ab6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+89                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+89-->[androidx.profileinstaller:profileinstaller:1.3.0] D:\AndroidBuild\AndroidPlayer\Tools\gradle\caches\transforms-3\29034ab742df07aea0e6ba35544e5ab6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+89-->[androidx.profileinstaller:profileinstaller:1.3.0] D:\AndroidBuild\AndroidPlayer\Tools\gradle\caches\transforms-3\29034ab742df07aea0e6ba35544e5ab6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+90            </intent-filter>
+91            <intent-filter>
+91-->[androidx.profileinstaller:profileinstaller:1.3.0] D:\AndroidBuild\AndroidPlayer\Tools\gradle\caches\transforms-3\29034ab742df07aea0e6ba35544e5ab6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+92                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+92-->[androidx.profileinstaller:profileinstaller:1.3.0] D:\AndroidBuild\AndroidPlayer\Tools\gradle\caches\transforms-3\29034ab742df07aea0e6ba35544e5ab6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+92-->[androidx.profileinstaller:profileinstaller:1.3.0] D:\AndroidBuild\AndroidPlayer\Tools\gradle\caches\transforms-3\29034ab742df07aea0e6ba35544e5ab6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+93            </intent-filter>
+94        </receiver>
+95    </application>
+96
+97</manifest>

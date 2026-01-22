@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-merged_res-40:\\drawable-hdpi_able.png.flat",
+        "source": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-main-42:\\drawable-hdpi\\able.png"
+    },
+    {
+        "merged": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-merged_res-40:\\drawable-hdpi_bluetooth.png.flat",
+        "source": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-main-42:\\drawable-hdpi\\bluetooth.png"
+    },
+    {
+        "merged": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-merged_res-40:\\drawable_edittext_bg.xml.flat",
+        "source": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-main-42:\\drawable\\edittext_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-merged_res-40:\\drawable_right_menu_bg.xml.flat",
+        "source": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-main-42:\\drawable\\right_menu_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-merged_res-40:\\xml_data_extraction_rules.xml.flat",
+        "source": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-main-42:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "org.vosk.demo.app-merged_res-40:/layout_bluetooth_layout.xml.flat",
+        "source": "org.vosk.demo.app-main-42:/layout/bluetooth_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-merged_res-40:\\drawable-hdpi_icon.png.flat",
+        "source": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-main-42:\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-merged_res-40:\\drawable-mdpi_icon.png.flat",
+        "source": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-main-42:\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-merged_res-40:\\drawable_device_item_bg.xml.flat",
+        "source": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-main-42:\\drawable\\device_item_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-merged_res-40:\\drawable-hdpi_disable.png.flat",
+        "source": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-main-42:\\drawable-hdpi\\disable.png"
+    },
+    {
+        "merged": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-merged_res-40:\\drawable-hdpi_logo1.png.flat",
+        "source": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-main-42:\\drawable-hdpi\\logo1.png"
+    },
+    {
+        "merged": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-merged_res-40:\\xml_buttonly.xml.flat",
+        "source": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-main-42:\\xml\\buttonly.xml"
+    },
+    {
+        "merged": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-merged_res-40:\\layout_item_listview.xml.flat",
+        "source": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-main-42:\\layout\\item_listview.xml"
+    },
+    {
+        "merged": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-merged_res-40:\\drawable-hdpi_right_btn.png.flat",
+        "source": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-main-42:\\drawable-hdpi\\right_btn.png"
+    },
+    {
+        "merged": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-merged_res-40:\\drawable-hdpi_left_btn.png.flat",
+        "source": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-main-42:\\drawable-hdpi\\left_btn.png"
+    },
+    {
+        "merged": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-merged_res-40:\\drawable-ldpi_icon.png.flat",
+        "source": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-main-42:\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-merged_res-40:\\drawable-hdpi_btn_pressed.png.flat",
+        "source": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-main-42:\\drawable-hdpi\\btn_pressed.png"
+    },
+    {
+        "merged": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-merged_res-40:\\drawable_left_menu_bg.xml.flat",
+        "source": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-main-42:\\drawable\\left_menu_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-merged_res-40:\\layout_dialog_add_command.xml.flat",
+        "source": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-main-42:\\layout\\dialog_add_command.xml"
+    },
+    {
+        "merged": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-merged_res-40:\\layout_item_devices.xml.flat",
+        "source": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-main-42:\\layout\\item_devices.xml"
+    },
+    {
+        "merged": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-merged_res-40:\\drawable-hdpi_title.png.flat",
+        "source": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-main-42:\\drawable-hdpi\\title.png"
+    },
+    {
+        "merged": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-merged_res-40:\\layout_bluetooth_layout.xml.flat",
+        "source": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-main-42:\\layout\\bluetooth_layout.xml"
+    },
+    {
+        "merged": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-merged_res-40:\\drawable-hdpi_logo.png.flat",
+        "source": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-main-42:\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-merged_res-40:\\layout_main.xml.flat",
+        "source": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\daemon\\8.5\\org.vosk.demo.app-main-42:\\layout\\main.xml"
+    }
+]

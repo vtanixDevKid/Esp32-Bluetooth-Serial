@@ -1,0 +1,4 @@
+#Thu Jan 22 17:20:29 ICT 2026
+base.0=D\:\\Project\\AppPeoject\\clone\\vosk-android-demo\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

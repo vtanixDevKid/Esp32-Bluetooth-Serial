@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.vosk.demo.app-mergeDebugResources-38:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "D:\\AndroidBuild\\AndroidPlayer\\Tools\\gradle\\caches\\transforms-3\\ad07ad5383f338a9072e5870681889d4\\transformed\\appcompat-1.6.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
