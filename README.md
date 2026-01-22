@@ -6,6 +6,11 @@
 
 Controlling the ESP32 microcontroller in Bluetooth serial using voice commands on an Android-based mobile phone from vosk.android.demo by calling the ESP32 function with the variables it has. 
 
-For example 
-'''bash
-git status
+For example :
+```c
+#include <stdio.h>
+
+int main(void) {
+    printf("Hello\n");
+    return 0;
+}
