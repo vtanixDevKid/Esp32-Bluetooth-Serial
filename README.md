@@ -23,7 +23,7 @@ void setup() {
   digitalWrite(relayPin, HIGH);   // relay OFF (active LOW)
 
   Serial.begin(115200);
-  SerialBT.begin("ESP32-Roboboy");
+  SerialBT.begin("ESP32-BtSerial");
 }
 
 void loop() {
@@ -56,6 +56,6 @@ and tho you can delete or add your command infinitly
 if you want this project you can ask me , even tho ill give you or not based on my mood :)
 
 the screenshot of the app:
-![preview](ScrenShot/1000212913.jpg)
-![preview](ScrenShot/1000212914.jpg)
+![preview](ScreenShot/1000212913.jpg)
+![preview](ScreenShot/1000212914.jpg)
 
